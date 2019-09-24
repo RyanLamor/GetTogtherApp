@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Semester Project</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button">Create event</string>
+    <string name="event_name">Event Name</string>
+    <string name="category">Category:</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="creator">Your Username</string>
+    <string name="desc">Description</string>
+    <string name="username_login">Enter username....</string>
+    <string name="password_login">Enter password...</string>
+    <string name="createEvent_Title">Create an Event</string>
+    <string name="creatEvent_Create">Create</string>
+    <string name="login_title">Please login to use this feature!</string>
+    <string name="login_autenticate">Login</string>
+    <string name="create_username">New username</string>
+    <string name="create_password">New password</string>
+    <string name="createUserTitle">Create a new user</string>
+    <string name="create_passwordConfirm">Confirm new password</string>
+    <string name="create_newEmail">Insert your email</string>
+    <string name="button_createNewUser">New user</string>
+    <string name="button_confirmNewUser">Confirm</string>
+    <string name="GoingToEvent">Going</string>
+    <string name="MaybeToEvent">Maybe</string>
+    <string name="button_createEventBack">Back</string>
+</resources>

@@ -1,0 +1,3 @@
+{"name":"Ryan L","password":"r123","id":1,"hosting":{},"maybe":{},"going":{}}
+{"name":"Tyson A","password":"t123","id":2,"hosting":{},"maybe":{},"going":{}}
+{"name":"Rio M","password":"r123","id":3,"hosting":{},"maybe":{},"going":{}}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "302237615560",
+    "firebase_url": "https://cs246-semesterproject.firebaseio.com",
+    "project_id": "cs246-semesterproject",
+    "storage_bucket": "cs246-semesterproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302237615560:android:72b1b45e9b018f15",
+        "android_client_info": {
+          "package_name": "com.example.semesterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302237615560-iqs4hf51eurd1qoifdhqvh8evj4gd2cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhhYZrPPNFCiTpVFFup8PejCOuK4m2q-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302237615560-iqs4hf51eurd1qoifdhqvh8evj4gd2cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
