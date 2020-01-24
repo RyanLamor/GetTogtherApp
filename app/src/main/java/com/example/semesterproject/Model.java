@@ -78,8 +78,8 @@ public class Model {
         usersRef.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
-                User newUser = dataSnapshot.getValue(User.class);
-                System.out.println("Current Users From Database: " + newUser.toString());
+//                User newUser = dataSnapshot.getValue(User.class);
+//                System.out.println("Current Users From Database: " + newUser.toString());
             }
             @Override
             public void onCancelled(DatabaseError databaseError) {
